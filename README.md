@@ -22,16 +22,18 @@
 </p>
 </br>
 
+<div align="center">
 <table>
   <tr>
     <td>
-      <img  src="https://github-readme-stats.vercel.app/api?username=itooonn&&show_icons=true&theme=gruvbox"/>
+      <img height="220em" src="https://github-readme-stats.vercel.app/api?username=itooonn&&show_icons=true&theme=gruvbox"/>
     </td>
     <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&layout=compact&theme=gruvbox" alt="Top Languages" />
     </td>
   </tr>
 </table>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itooonn&label=Profile%20views&color=yellow&style=for-the-badge" alt="itooonn" />
 </br>
