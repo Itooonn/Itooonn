@@ -1,8 +1,70 @@
 ![banner](github-header-banner.png)
 
-<h3 align="center">The Industrial Revolution and its consequences have been a disaster for the human race. They have greatly increased the life-expectancy of those of us who live in “advanced” countries, but they have destabilized society, have made life unfulfilling, have subjected human beings to indignities, have led to widespread psychological suffering (in the Third World to physical suffering as well) and have inflicted severe damage on the natural world. The continued development of technology will worsen the situation. It will certainly subject human being to greater indignities and inflict greater damage on the natural world, it will probably lead to greater social disruption and psychological suffering, and it may lead to increased physical suffering even in “advanced” countries. The industrial-technological system may survive or it may break down. If it survives, it MAY eventually achieve a low level of physical and psychological suffering, but only after passing through a long and very painful period of adjustment and only at the cost of permanently reducing human beings and many other living organisms to engineered products and mere cogs in the social machine. Furthermore, if the system survives, the consequences will be inevitable: There is no way of reforming or modifying the system so as to prevent it from depriving people of dignity and autonomy. If the system breaks down the consequences will still be very painful. But the bigger the system grows the more disastrous the results of its breakdown will be, so if it is to break down it had best break down sooner rather than later. We therefore advocate a revolution against the industrial system. This revolution may or may not make use of violence; it may be sudden or it may be a relatively gradual process spanning a few decades. We can’t predict any of that. But we do outline in a very general way the measures that those who hate the industrial system should take in order to prepare the way for a revolution against that form of society. This is not to be a POLITICAL revolution. Its object will be to overthrow not governments but the economic and technological basis of the present society. In this article we give attention to only some of the negative developments that have grown out of the industrial-technological system. Other such developments we mention only briefly or ignore altogether. This does not mean that we regard these other developments as unimportant. For practical reasons we have to confine our discussion to areas that have received insufficient public attention or in which we have something new to say. For example, since there are well-developed environmental and wilderness movements, we have written very little about environmental degradation or the destruction of wild nature, even though we consider these to be highly important.</h3>
+</br>
+</br>
+<h3 align="center">"The only impossible journey is the one you never begin. - Anthony Robbins"</h3>
+</br>
+</br>
+<!--
+## 🚀 About Me
+-->
+<!-- - 🎓 Associate of Computer Technology Graduate -->
+<!-- - 💻 Aspiring front-end Developer -->
+<!-- - 🌱 Currently learning Laravel and React -->
+<!-- - ⚡ Currently learning Web Development -->
+<!-- - 🎮 Interested in Gamge Development -->
+  
+<!-- </br>  -->
 
-# Languages & Tools 👨‍💻 🛠:
+## About Me
+</br>
+
+```javascript
+const developer = {
+    name: "Itooonn",
+    role: "IT Graduate | IS Student | Aspiring Web and Game Developer",
+
+    currentlyLearning: [
+        "Laravel",
+        "React",
+        "Software Architecture"
+    ],
+
+    interests: [
+        "Web Development",
+        "Frontend Development",
+        "UI/UX Design",
+        "Game Development"
+    ],
+
+    goals: [
+        "Build scalable web applications",
+        "Contribute to open-source projects",
+        "Continuously improve as a software developer"
+        "Create and publish my own game"
+    ],
+};
+```
+</br>
+
+I'm an **Information System Student** with a passion for creating practical and user-friendly applications. I enjoy transforming ideas into functional software while continuously exploring new technologies and improving my development skills.
+
+Whether I'm building a web application, learning, or solving programming challenges, I'm always looking for opportunities to grow as a developer and create meaningful projects.
+
+### Currently Exploring
+
+* ⚙️ Laravel & PHP
+* ⚛️ React
+* 🗄️ Database Design
+  
+</br>
+
+> *"Every project is another opportunity to learn something new and become a better developer."*
+
+
+## Tech stack
+
+</br>
 </br>
 
 <p align="center">
@@ -35,6 +97,7 @@
 </table>
 </div>
 
+</br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itooonn&label=Profile%20views&color=yellow&style=for-the-badge" alt="itooonn" />
 </br>
 
