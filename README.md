@@ -48,7 +48,7 @@
       <td align="center"><b>TC-004</b></td>
       <td><b>API & Backend Testing</b></td>
       <td>Validate REST endpoints, payloads & schema integrity</td>
-      <td align="center"><code>FAILED</code> ❌<br><sub>*(Bug #04: In Backlog)*</sub></td>
+      <td align="center"><code>FAILED</code> ❌</td>
     </tr>
     <tr>
       <td align="center"><b>TC-005</b></td>
@@ -80,19 +80,17 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itooonn&show_icons=true&theme=gruvbox" alt="itooonn's GitHub Stats" />
+        <a href="https://github-stats-extended.vercel.app">
+          <img height="180" src="https://github-stats-extended.vercel.app/api?username=itooonn&show_icons=true&theme=gruvbox" alt="itooonn's GitHub Stats" />
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itooonn&size_weight=0.5&count_weight=0.5&layout=compact&theme=gruvbox" alt="Top Languages" />
+        <a href="https://github-stats-extended.vercel.app">
+          <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itooonn&size_weight=0.5&count_weight=0.5&layout=compact&theme=gruvbox" alt="Top Languages" />
         </a>
       </td>
     </tr>
   </table>
-
-  <br />
 
   <img src="https://komarev.com/ghpvc/?username=itooonn&label=Profile%20views&color=fabd2f&style=flat-square" alt="Profile Views" />
 </div>
