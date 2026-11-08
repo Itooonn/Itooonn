@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 44" width="720" height="44">
+  <style>
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 23px;
+      font-weight: 600;
+      text-anchor: middle;
+      fill: #24292f;
+    }
+    @media (prefers-color-scheme: dark) {
+      .title-text {
+        fill: #e6edf3;
+      }
+    }
+  </style>
+
+  <g>
+    <!-- State 1: Academic & Background -->
+    <text class="title-text" x="360" y="29">
+      🎓 IT Graduate &amp; Information Systems Student
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.44;0.50;1" dur="6s" repeatCount="indefinite" />
+      <animateTransform attributeName="transform" type="translate" values="0,6;0,0;0,0;0,-6;0,-6" keyTimes="0;0.08;0.44;0.50;1" dur="6s" repeatCount="indefinite" />
+    </text>
+
+    <!-- State 2: Career Goal -->
+    <text class="title-text" x="360" y="29">
+      🛡️ Aspiring Quality Assurance (QA) Engineer
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.50;0.58;0.94;1" dur="6s" repeatCount="indefinite" />
+      <animateTransform attributeName="transform" type="translate" values="0,6;0,6;0,0;0,0;0,-6;0,-6" keyTimes="0;0.50;0.58;0.94;1" dur="6s" repeatCount="indefinite" />
+    </text>
+  </g>
+</svg>
