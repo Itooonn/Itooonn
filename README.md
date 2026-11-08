@@ -1,5 +1,6 @@
 <div align="center">
   <img src="banner.gif" alt="Header Banner" height="280" />
+  <br />
 
   <br />
   <img src="title.svg" alt="Animated Title" height="42" />
